@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2095942501",
+    "project_id": "projeto-faculdade-42b24",
+    "storage_bucket": "projeto-faculdade-42b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2095942501:android:b636a0b578d0bd546bef8c",
+        "android_client_info": {
+          "package_name": "com.example.dvsgse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8O0tUtZxvKYm_faIg_ADxwyuF-eTRKQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
